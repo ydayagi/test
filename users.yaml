@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ydayagi
+spec:
+  profile:
+    displayName: Yaron Dayagi
+    email: ydayagi@redhat.com
+  memberOf: [guest]
